@@ -6,4 +6,4 @@ int  a = int.Parse(Console.ReadLine());
 int b = a * a;
 
 Console.Write("Ответ: ");
-Console.Write(a * a);
+Console.WriteLine(Math.Pow(a, 2));
