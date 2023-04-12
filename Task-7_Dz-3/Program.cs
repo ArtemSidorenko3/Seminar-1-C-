@@ -5,9 +5,9 @@ double a = double.Parse(Console.ReadLine());
  
  if(a % 2 == 1)
  {
-    Console.Write("Число: " + a + " (Нечётное)");
+    Console.WriteLine("Число: " + a + " (Нечётное)");
  }
  else
  {
-    Console.Write("Число: " + a + " (Чётное)");
+    Console.WriteLine("Число: " + a + " (Чётное)");
  }
