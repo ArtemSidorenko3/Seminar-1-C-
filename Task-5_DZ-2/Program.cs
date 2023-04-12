@@ -9,4 +9,4 @@ double b = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите число 3: ");
 double c = double.Parse(Console.ReadLine());
 
-Console.WriteLine("Максимальное число: " + Math.Max(a, Math.Max(b,c)));
+Console.Write("Максимальное число: " + Math.Max(a, Math.Max(b,c)));
