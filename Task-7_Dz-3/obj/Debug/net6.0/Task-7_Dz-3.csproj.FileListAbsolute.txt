@@ -3,3 +3,13 @@ C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.Gen
 C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.AssemblyInfoInputs.cache
 C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.AssemblyInfo.cs
 C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\bin\Debug\net6.0\Task-7_Dz-3.exe
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\bin\Debug\net6.0\Task-7_Dz-3.deps.json
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\bin\Debug\net6.0\Task-7_Dz-3.runtimeconfig.json
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\bin\Debug\net6.0\Task-7_Dz-3.dll
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\bin\Debug\net6.0\Task-7_Dz-3.pdb
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.dll
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\refint\Task-7_Dz-3.dll
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.pdb
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\Task-7_Dz-3.genruntimeconfig.cache
+C:\Users\artem\Desktop\Seminar 1 C#\Task-7_Dz-3\obj\Debug\net6.0\ref\Task-7_Dz-3.dll
